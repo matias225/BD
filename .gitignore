@@ -5,3 +5,4 @@
 **.pyc
 # Ignorar entornos virtuales de Python en cualquier subcarpeta
 **/.venv/
+*.log
